@@ -19,7 +19,7 @@
         "serve-favicon": "2.5.0",
         "strong-error-handler": "3.2.0",
         "loopback-component-explorer": "^6.0.0",
-        "loopback": "^3.19.0",
+        "loopback": "3.22.2",
         "loopback-component-model-diagram": "^0.4.2",
         "loopback-component-mq": "^2.2.5",
         "loopback-component-passport": "^3.4.1",
