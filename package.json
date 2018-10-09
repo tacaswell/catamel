@@ -14,7 +14,7 @@
     "dependencies": {
         "compression": "^1.0.3",
         "cors": "^2.5.2",
-        "helmet": "^3.10.0",
+        "helmet": "3.13.0",
         "loopback-boot": "^2.6.5",
         "serve-favicon": "2.5.0",
         "strong-error-handler": "3.2.0",
